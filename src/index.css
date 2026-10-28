@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    @apply  bg-radial from-taupe-400/50 from-5% via-yellow-700/30 to-taupe-600/20 bg-no-repeat min-h-screen;
+  }
+
+  a, button {
+    @apply cursor-pointer;
+  }
+}

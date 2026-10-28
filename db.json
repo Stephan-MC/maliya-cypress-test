@@ -1,0 +1,53 @@
+{
+  "students": [
+    {
+      "id": "a3bb18a7-9618-4a69-a1d2-06b3a0e6950f",
+      "first_name": "Orlando",
+      "last_name": "Guy",
+      "matricule": "M1028"
+    },
+    {
+      "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+      "first_name": "Clhardy",
+      "last_name": "H-muet",
+      "matricule": "M1024"
+    },
+    {
+      "id": "RyhZo84X45Y",
+      "first_name": "Fransesca",
+      "last_name": "h-muet",
+      "matricule": "0000"
+    },
+    {
+      "id": "c0_XvNJCows",
+      "first_name": "Au",
+      "last_name": "De",
+      "matricule": "4455"
+    },
+    {
+      "id": "1m92gvNFF6Y",
+      "first_name": "Full",
+      "last_name": "Name",
+      "matricule": "4543"
+    },
+    {
+      "first_name": "Mini",
+      "last_name": "Star",
+      "matricule": "1111",
+      "id": "CGyl05Ee1Ic"
+    },
+    {
+      "first_name": "Au",
+      "last_name": "De",
+      "matricule": "1111",
+      "id": "1OKcHJJtKkk"
+    },
+    {
+      "first_name": "Au",
+      "last_name": "De",
+      "matricule": "1111",
+      "id": "zWHXKbMJ-DI"
+    }
+  ],
+  "$schema": ["./node_modules/json-server/schema.json"]
+}
